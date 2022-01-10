@@ -1,5 +1,5 @@
-# Misc_Scripts
-This repository consists of different scripts. You can find the list of scripts and their application below:
+# vcftools
+This repository consists of different scripts to modify vcftools output. You can find the list of scripts and their application below:
 
 
 ## extract-region-V1.sh
